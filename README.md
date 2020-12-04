@@ -7,3 +7,11 @@ We used a SQL database to keep track of registered users and movies while the us
   <hr>
 The application is modelled using a Model - View - Controller - Database architecture. The model represents entity classes in our application which allows us to access/update attributes belonging to them. The Database is a connection to a local SQL database that was maintained using MySQL workbench. The View consists of various graphical user interfaces and the controller allows for smooth communication between GUI actions and database actions. 
 <hr>
+
+<h3>Authors</h3>
+<hr>
+https://github.com/ArmaanMohar
+https://github.com/rajode 
+https://github.com/MustafaMuhammad2000
+https://github.com/meeeeeeem 
+<hr>
