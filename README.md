@@ -9,7 +9,7 @@ The application is modelled using a Model - View - Controller - Database archite
 <hr>
 
 <h3>Authors</h3>
-<hr>
+
 https://github.com/ArmaanMohar
 
 https://github.com/rajode 
@@ -17,4 +17,4 @@ https://github.com/rajode
 https://github.com/MustafaMuhammad2000
 
 https://github.com/meeeeeeem 
-<hr>
+
