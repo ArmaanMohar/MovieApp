@@ -5,5 +5,5 @@ We used a SQL database to keep track of registered users and movies while the us
   <hr>
   <h3>Architecture</h3>
   <hr>
-The application is modelled using a Model - View - Controller - Database architecture. The model represent entity classes in our application which allows us to access/update attribute belonging to them. The Database is a connection to a local SQL database that was maintained using MySQL workbench. The View consists of various graphical user interfaces and the controller allows for smooth communication between GUI actions and database actions. 
+The application is modelled using a Model - View - Controller - Database architecture. The model represents entity classes in our application which allows us to access/update attributes belonging to them. The Database is a connection to a local SQL database that was maintained using MySQL workbench. The View consists of various graphical user interfaces and the controller allows for smooth communication between GUI actions and database actions. 
 <hr>
