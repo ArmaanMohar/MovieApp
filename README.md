@@ -1,7 +1,7 @@
 <h1>Movie Ticket Reservation System</h1>
   <hr>
 MovieApp is a system where users can buy tickets for movies in a theatre. This was a group project created for ENSF 480 following strict design constraints which were documented
-with use case, UML, System Interaction, State Transition, System Activity, Package, and Deployment diagrams.
+with UML 2.5 models such as use case, class, System Interaction, State Transition, System Activity, Package, and Deployment diagrams.
 We used a SQL database to keep track of registered users and movies while the user interface was constructed using Java GUIs.
   <hr>
   <h3>Architecture</h3>
